@@ -5,5 +5,6 @@ REQUIREMENTS
 - node.js (https://nodejs.org/en/download/)
 - discord.js (https://discord.js.org/)
 - guilded.js (https://guilded.js.org/)
+
 Run the script using the following command:
 node scriptname.js
