@@ -7,4 +7,5 @@ REQUIREMENTS
 - guilded.js (https://guilded.js.org/)
 
 Run the script using the following command:
+
 node scriptname.js
