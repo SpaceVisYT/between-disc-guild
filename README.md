@@ -9,3 +9,5 @@ REQUIREMENTS
 Run the script using the following command:
 
 node scriptname.js
+
+Don't forget to fill in your own tokens and channel IDs.
